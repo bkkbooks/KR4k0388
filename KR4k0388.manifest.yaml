@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0388_001.yaml, hash: 'sha256:b45546d347a7aad9095fd00e6738fabefac4dd420a13c746e00bec9d392c0fb4'}
+  - {seq: 1, filename: KR4k0388_001.yaml, hash: 'sha256:df3d6b958888d6e9ecb5f0256847b63112dbbe834509da952ba94470b0674525'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0388_001.markers.yaml, hash: 'sha256:7117115412e33f6aa2725825cc35559f88a0351bc65cd767af664b3f58a481d3'}
+  - {seq: 1, role: markers, filename: assets/KR4k0388_001.markers.yaml, hash: 'sha256:2544dae6ff2976dd13d64bb3928e966d824cc362620bae8f77bb3367498a9b55'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 劉昺燉煌實錄
   type: section
   level: 1
-hash: sha256:caac515840057679495a0c2d7e912cb63508af9896ce4431958c21887f6f1fc6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3beb2091fc08ade879117557feb356518e2d069f7149b5de8bc5a5d3a5144d6c
