@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4k0388/v1
 canonical_location: https://kanripo.org/bkk/KR4k0388/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 劉昺燉煌實錄一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0388_001.yaml, hash: 'sha256:df3d6b958888d6e9ecb5f0256847b63112dbbe834509da952ba94470b0674525'}
+  - {seq: 1, filename: KR4k0388_001.yaml, hash: 'sha256:b45546d347a7aad9095fd00e6738fabefac4dd420a13c746e00bec9d392c0fb4'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0388_001.markers.yaml, hash: 'sha256:2544dae6ff2976dd13d64bb3928e966d824cc362620bae8f77bb3367498a9b55'}
+  - {seq: 1, role: markers, filename: assets/KR4k0388_001.markers.yaml, hash: 'sha256:7494f88273e6850c55d0bca634e4803c2edb585a2c452676ba4f222bdfe39c5d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 劉昺燉煌實錄
   type: section
   level: 1
-hash: sha256:3beb2091fc08ade879117557feb356518e2d069f7149b5de8bc5a5d3a5144d6c
+hash: sha256:2c2e71526b55d35124509a56662ff2f775183e1e4272f17da5273bdc2fe9b12f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
